@@ -1,6 +1,6 @@
 {
     "name": "zhulong/lib",
-    "minimum-stability": "master",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Zhulong\\Lib\\": "src/",
